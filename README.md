@@ -1,10 +1,5 @@
 # 📄 Documentação do Projeto: Tetris em Python com Pygame
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Tetris_Logo.svg" alt="Tetris Logo" width="200">
-  <p><em>Implementação do clássico jogo Tetris com Pygame</em></p>
-</div>
-
 ---
 
 ## 🎮 1. Visão Geral
